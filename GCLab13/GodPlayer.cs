@@ -10,7 +10,7 @@ namespace GCLab13
     {
         // I always win 
 
-        public new string playerName = "Deity";
+        public new string playerName = "God";
         //private string roshValue;
 
         public GodPlayer(int RoshValue)

@@ -15,8 +15,8 @@ namespace GCLab13
             bool killswitch = true;
             while (killswitch)
             {
-                int playerChosen = RoshGameplay.choosePlayer();
-                int userMove = RoshGameplay.chooseRPS();
+                int playerChosen = RoshamboApp.choosePlayer();
+                int userMove = RoshamboApp.chooseRPS();
                 if (playerChosen == 1)
                 {
                     PlayerRandom randy = new PlayerRandom(userMove);
