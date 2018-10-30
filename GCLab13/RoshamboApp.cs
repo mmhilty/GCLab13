@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GCLab13
 {
-    class RoshGameplay
+    class RoshamboApp
     {
         public static int choosePlayer()
         {
